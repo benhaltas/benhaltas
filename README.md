@@ -1,6 +1,6 @@
 # Ahmed Haltas
 
-Mechanical Engineer and M.Eng. Industry 4.0 student based in Baden-Württemberg, Germany, focused on PLC/SPS programming, industrial automation, control engineering, and commissioning. This portfolio is platform-neutral: the projects provide hands-on Beckhoff TwinCAT 3 evidence, while Siemens TIA Portal is part of my current development focus.
+Mechanical Engineer · M.Eng. Industry 4.0, based in Baden-Württemberg, Germany, focused on PLC/SPS programming, industrial automation, control engineering, and commissioning. This portfolio is platform-neutral: the projects provide hands-on Beckhoff TwinCAT 3 evidence, while Siemens TIA Portal is part of my current development focus.
 
 ## Focus
 
